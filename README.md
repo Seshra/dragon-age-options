@@ -1,2 +1,2 @@
 # dragon-age-options
-For tracking which options you have and haven't seen in the Dragon Age universe
+For tracking which options you have and haven't seen in the Dragon Age universe across multiple playthroughs.  With the Dragon Age Keep it is easy to see all the choices you've made across a single playthrough but what the multiple world states?  This app creates a condensed data set of the options you have picked across multiple world states, as well as only tracking "major" ones that appear to effect the over all world state.
